@@ -3,6 +3,8 @@ import os
 import json
 import shutil
 
+print ("Developer = Mano")
+
 try:
     from lib.variables import Variables
 except ImportError:
